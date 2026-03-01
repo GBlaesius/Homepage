@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Steuerberater Bläsius St. Johann</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+    background: linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65)),
+                url("background.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+.container {
+    padding: 100px 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+.logo {
+    max-width: 320px;
+    margin-bottom: 50px;
+}
+
+h1 {
+    font-size: 34px;
+    margin-bottom: 30px;
+    font-weight: normal;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.contact {
+    margin-top: 40px;
+    font-size: 18px;
+}
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+</style>
+</head>
+
+<body>
+<div class="container">
+    <img src="logo.png" alt="Logo Steuerberater Bläsius St. Johann" class="logo">
+
+    <h1>Danke für 35 Jahre Vertrauen</h1>
+
+    <p>
+        Nach über 35 Jahren selbstständiger Tätigkeit habe ich meine aktive Tätigkeit als Steuerberater beendet und für mich ein neues Kapitel begonnen.
+    </p>
+
+    <p>
+        Ich blicke mit großer Dankbarkeit auf die Zusammenarbeit mit meinen Mandantinnen und Mandanten sowie meinen Mitarbeiterinnen und Mitarbeitern zurück. 
+        Ich danke Ihnen für das langjährige Vertrauen und die vielen persönlichen Begegnungen und Freundschaften, die daraus entstanden sind. 
+        Das bedeutet mir sehr viel.
+    </p>
+
+    <p>
+        Gerne unterstütze ich Sie bei der Suche nach einer geeigneten steuerlichen Betreuung.
+    </p>
+
+    <div class="contact">
+        Kontakt: 
+        <a href="mailto:guenter.blaesius@stb-blaesius.de">
+            guenter.blaesius@stb-blaesius.de
+        </a>
+    </div>
+
+</div>
+</body>
+</html>
